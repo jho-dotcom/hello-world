@@ -1,4 +1,6 @@
 # hello-world
 My first repository
 
-jho-dotcome here, I'm trying to teach myself coding.  I'm going to need a lot of help so I'm hoping this is the place to do it.
+
+jho-dotcom here, looking to learn, play, and buildup my skills. 
+Since I'm new to coding and very new to github please be kind =)
