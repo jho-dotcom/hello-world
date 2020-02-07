@@ -1,5 +1,5 @@
 # hello-world
-My first repository
+My repository
 
 
 jho-dotcom here, looking to learn, play, and buildup my skills. 
